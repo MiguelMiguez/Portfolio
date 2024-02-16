@@ -1,0 +1,47 @@
+.IntroPerfil{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    padding: 1rem;
+}
+
+.ContainerInfoPerfil{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    gap: 0.5rem;
+    width: 70%;
+}
+
+.NameProfile{
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.TextProfile{
+    font-size: .875rem;
+    line-height: 1.25rem;
+}
+
+.ContainerLocation{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+}
+
+.ContainerLocation a{
+    text-decoration: none;
+    color: rgb(88, 88, 88);
+    transition: 1s;
+}
+
+.ContainerLocation a:hover{
+    text-decoration:underline;
+    
+}
