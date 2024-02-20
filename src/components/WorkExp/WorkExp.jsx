@@ -10,7 +10,7 @@ const WorkExp = () => {
     <div className='WorkExp'>
       <h2>Experiencia</h2>
       {work.map((exp, index) => (
-        <div key={index}>
+        <div className='InfoWork' key={index}>
           <h3>{exp.name}</h3>
           <h4>{exp.position}</h4>
           <p>{exp.summary}</p>

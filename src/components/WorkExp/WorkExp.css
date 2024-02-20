@@ -1,6 +1,5 @@
 .WorkExp{
     padding-top: 1rem;
-   
 }
 
 h2{
@@ -8,4 +7,28 @@ h2{
     line-height: 2rem;
     font-weight: bold;
     font-family: "Montserrat", sans-serif;
+}
+
+.InfoWork{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+h3{
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+    font-weight: 500;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 1rem;
+}
+
+h4{
+    font-family: "Inconsolata", monospace;
+    font-weight: 600;
+}
+
+p{
+    font-family: "Inconsolata", monospace;
+    color: rgb(94, 94, 94);
 }
