@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { MyContextProvider } from './components/MyContext/MyContext';
 import IntroPerfil from './components/IntroPerfl/IntroPerfil';
 import AboutMe from './components/AboutMe/AboutMe';
-
+import ContainerAll from './components/ContainerAll/ContainerAll';
 import './App.css'
 
 
@@ -12,8 +12,7 @@ function App() {
   return (
     <>
       <MyContextProvider>
-          <IntroPerfil/>
-          <AboutMe/>
+          <ContainerAll/>
       </MyContextProvider>
     </>
   )

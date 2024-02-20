@@ -14,12 +14,12 @@
       }]
     },
     "work": [{
-      "name": "Company",
-      "position": "President",
-      "url": "https://company.com",
-      "startDate": "2013-01-01",
-      "endDate": "2014-01-01",
-      "summary": "Description…",
+      "name": "Asociación de Cooperativas Argentinas",
+      "position": "Analista de Soporte de Aplicaciones",
+      "url": "https://www.acacoop.com.ar/",
+      "startDate": "2022-Noviembre",
+      "endDate": "Actualidad",
+      "summary": "Administración de bases de datos SQL para garantizar su rendimiento y confiabilidad.",
       "highlights": [
         "Started the company"
       ]

@@ -3,7 +3,6 @@
     flex-direction: row;
     justify-content: start;
     align-items: center;
-    padding: 1rem;
 }
 
 .ContainerInfoPerfil{
@@ -19,13 +18,14 @@
     font-size: 1.5rem;
     line-height: 2rem;
     font-weight: bold;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Montserrat", sans-serif;
 
 }
 
 .TextProfile{
-    font-size: .875rem;
+    font-size: .890rem;
     line-height: 1.25rem;
+    font-family: "Inconsolata", monospace;
 }
 
 .ContainerLocation{
