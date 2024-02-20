@@ -15,20 +15,52 @@ h2{
     gap: 0.5rem;
 }
 
-h3{
+.TittleCompany{
     font-size: 1.1rem;
     line-height: 1.5rem;
-    font-weight: 500;
+    font-weight: bold;
     font-family: "Montserrat", sans-serif;
     padding-top: 1rem;
 }
 
-h4{
+.TittlePosition{
     font-family: "Inconsolata", monospace;
     font-weight: 600;
 }
 
-p{
-    font-family: "Inconsolata", monospace;
-    color: rgb(94, 94, 94);
+.ExpText{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.InfoCompany{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4rem;
+}
+
+.DateText{
+    padding-top: 1rem;
+    color:  #646464;
+    font-family: "Montserrat", sans-serif;
+    font-size: .875rem;
+}
+
+.DateCompany{
+    display: flex;
+    flex-direction: row;
+   
+}
+.ContainerTittleCompany{
+    width: 100%;
+}
+
+.linea-separadora {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    border-top: 1px solid #646464; 
+    width: 100%; 
 }

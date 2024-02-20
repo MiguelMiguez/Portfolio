@@ -13,17 +13,40 @@
         "url": "https://twitter.com/john"
       }]
     },
-    "work": [{
-      "name": "Asociación de Cooperativas Argentinas",
-      "position": "Analista de Soporte de Aplicaciones",
-      "url": "https://www.acacoop.com.ar/",
-      "startDate": "2022-Noviembre",
-      "endDate": "Actualidad",
-      "summary": "Administración de bases de datos SQL para garantizar su rendimiento y confiabilidad.",
-      "highlights": [
-        "Started the company"
-      ]
-    }],
+    "work": [
+        {
+          "name": "Asociación de Cooperativas Argentinas",
+          "position": "Analista de Soporte de Aplicaciones",
+          "url": "https://www.acacoop.com.ar/",
+          "startDate": "2022",
+          "endDate": "2024",
+          "summary": [
+            "Administración de usuarios en servidores de Active Directory para garantizar el acceso adecuado y la seguridad de las cuentas de usuario.",
+            "Gestión de aplicaciones contables e impositivas para asegurar la precisión y cumplimiento de los procesos financieros.",
+            "Administración de aplicaciones de generación de remitos y facturación para asegurar un flujo eficiente de documentos comerciales.",
+            "Manejo de SAP para respaldar las operaciones comerciales y la gestión de la empresa."
+          ]
+        },
+        {
+          "name": "Compass-Group",
+          "position": "Analista de soporte",
+          "url": "https://www.otraempresa.com/",
+          "startDate": "2021",
+          "endDate": "2022",
+          "summary": [ 
+            "Administración de usuarios en servidores de Active Directory para garantizar el acceso adecuado y la seguridad de las cuentas de usuario.",
+            "Administración de usuarios en servidores de Active Directory para garantizar el acceso adecuado y la seguridad de las cuentas de usuario.",
+            "Gestión de usuarios en Microsoft Azure para garantizar la seguridad y el acceso adecuado a los recursos en la nube.",
+            "Gestión de usuarios en Microsoft Exchange para mantener la integridad y la disponibilidad del correo electrónico empresarial.",
+            "Creación de una imagen de Windows 10 para equipos limitados, facilitando una implementación rápida y consistente de sistemas operativos en nuevos equipos.",
+            "Elaboración de instructivos para la base de conocimientos, facilitando a los usuarios la resolución autónoma de problemas comunes.",
+            "Gestión de usuarios en Service Desk, brindando asistencia técnica a los usuarios y resolviendo incidencias en tiempo real.",
+            "Gestión de inventario de hardware y software para mantener un control preciso de los activos y garantizar la disponibilidad de los recursos necesarios."
+          
+          ]
+        }
+      
+    ],
     "volunteer": [{
       "organization": "Organization",
       "position": "Volunteer",
