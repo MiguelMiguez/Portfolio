@@ -15,9 +15,9 @@ const WorkExp = () => {
               <h3 className='TittleCompany'>{exp.name}</h3>
             </div>
             <div className='DateCompany'>
-              <h3 className='DateText'>{exp.startDate}</h3>
-              <h3 className='DateText'>-</h3>
-              <h3 className='DateText'>{exp.endDate}</h3>
+              <p className='DateText'>{exp.startDate}</p>
+              <p className='DateText'>-</p>
+              <p className='DateText'>{exp.endDate}</p>
             </div>
           </div>
           <h4 className='TittlePosition'>{exp.position}</h4>
@@ -26,7 +26,6 @@ const WorkExp = () => {
               <li className='Text' key={sIndex}>{summaryItem}</li>
             ))}
           </ul>
-          <div class="linea-separadora"></div>
         </div>
       ))}
     </div>

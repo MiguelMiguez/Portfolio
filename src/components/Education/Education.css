@@ -1,3 +1,24 @@
 .Education{
     padding-top: 1rem;
 }
+
+.EducationPlace{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4rem;
+}
+
+.Institution{
+    width: 60%;
+    padding: 1rem 0rem 1rem 0rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+}
+
+.Date{
+    display: flex;
+    gap: 0.2rem;
+}

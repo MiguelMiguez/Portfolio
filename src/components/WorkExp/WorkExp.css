@@ -31,7 +31,8 @@ h2{
 .ExpText{
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    padding: 1.5rem 0rem 1.5rem 0rem;
+    gap: 1rem;
 }
 
 .InfoCompany{
@@ -57,10 +58,3 @@ h2{
     width: 100%;
 }
 
-.linea-separadora {
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    border-top: 1px solid #646464; 
-    width: 100%; 
-}
