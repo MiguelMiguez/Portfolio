@@ -1,0 +1,14 @@
+.SkillCertificate{
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
+}
+
+
+
+.ContainerSkills{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+}

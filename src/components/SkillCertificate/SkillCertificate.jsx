@@ -7,13 +7,14 @@ const SkillCertificate = () => {
 
   return (
     <div className='SkillCertificate'>
-        <h2>Skills</h2>
+        <h2 className='Tittle'>Skills & Certificaciones</h2>
         {certificates.map((cert) =>(
-        <div>
-            <p>{cert.name}</p>
-        </div>
+        <div className='ContainerSkills'>
+          <div className='Skills'>
+              <a href={cert.url} target='blank'><p>{cert.name}</p></a>
+          </div>
+        </div>  
         ))}
-        
     </div>
   )
 }

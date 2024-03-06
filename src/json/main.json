@@ -88,11 +88,18 @@
       }      
     ],
     "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }],
+      "name": "React",
+      "url": "https://www.coderhouse.com/ar/certificados/65ca4e5a82e04116c658a944?lang=es"
+    },
+    {
+      "name": "JavaScript",
+      "url": "https://coderhouse.com/ar/certificados/6538126ad670f7837198332f?lang=es"
+    },
+    {
+      "name": "HTML-CSS",
+      "url": "https://www.coderhouse.com/ar/certificados/64d4eb5c19aad62f906bf3e7?lang=es"
+    }
+  ],
     "publications": [{
       "name": "Publication",
       "publisher": "Company",
