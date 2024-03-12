@@ -96,52 +96,46 @@
       "url": "https://coderhouse.com/ar/certificados/6538126ad670f7837198332f?lang=es"
     },
     {
-      "name": "HTML-CSS",
+      "name": "HTML",
       "url": "https://www.coderhouse.com/ar/certificados/64d4eb5c19aad62f906bf3e7?lang=es"
+    },
+    {
+      "name": "CSS",
+      "url": "https://www.coderhouse.com/ar/certificados/64d4eb5c19aad62f906bf3e7?lang=es"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Software"
+    },
+    {
+      "name": "Hardware"
+    },
+    {
+      "name": "CCNA"
+    },
+    {
+      "name": "PowerShell"
+    },
+    {
+      "name": "CMD"
+    }
+    ,
+    {
+      "name": "Bootstrap"
+    },
+    {
+      "name": "GIT"
+    },
+    {
+      "name": "SASS"
     }
   ],
-    "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
-    }],
-    "skills": [{
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React",
-        "Bootstrap",
-        "Git"
-      ]
-    }],
-    "languages": [{
-      "language": "English",
-      "fluency": "Native speaker"
-    }],
-    "interests": [{
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
-    "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }],
     "projects": [{
       "name": "Project",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
       "description": "Description...",
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
+      "url": "https://project.com/",
+      "tecnology"
     }]
   }

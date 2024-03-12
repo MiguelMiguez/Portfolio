@@ -1,14 +1,27 @@
 .SkillCertificate{
     display: flex;
     flex-direction: column;
-    padding-top: 1rem;
+    padding: 1rem 0rem 1rem 0rem;
+    
 }
 
 
 
 .ContainerSkills{
     display: flex;
-    flex-direction: row;
-    align-items: center;
+    flex-wrap: wrap;
     gap: 1rem;
+    padding-top: 1rem;
 }
+
+.Skills{
+    background-color: rgba(27, 27, 27, 0.938);
+    padding: 0.5rem;
+    border-radius: 20px;
+}
+
+.Skills a{
+    text-decoration: none;
+    color: white;
+}
+

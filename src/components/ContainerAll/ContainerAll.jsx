@@ -6,6 +6,7 @@ import AboutMe from '../AboutMe/AboutMe';
 import WorkExp from '../WorkExp/WorkExp';
 import Education from '../Education/Education';
 import SkillCertificate from '../SkillCertificate/SkillCertificate';
+import Projects from '../Projects/Projects';
 
 
 const ContainerAll = () => {
@@ -16,6 +17,7 @@ const ContainerAll = () => {
         <WorkExp/>
         <Education/>
         <SkillCertificate/>
+        <Projects/>
     </div>
   )
 }
