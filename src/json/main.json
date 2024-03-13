@@ -136,6 +136,9 @@
       "name": "Project",
       "description": "Description...",
       "url": "https://project.com/",
-      "tecnology"
+      "tecnology":[
+        "HTML",
+        "SASS"
+      ]
     }]
   }
