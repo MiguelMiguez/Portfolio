@@ -90,55 +90,141 @@
     "certificates": [{
       "name": "React",
       "url": "https://www.coderhouse.com/ar/certificados/65ca4e5a82e04116c658a944?lang=es"
-    },
-    {
-      "name": "JavaScript",
-      "url": "https://coderhouse.com/ar/certificados/6538126ad670f7837198332f?lang=es"
-    },
-    {
-      "name": "HTML",
-      "url": "https://www.coderhouse.com/ar/certificados/64d4eb5c19aad62f906bf3e7?lang=es"
-    },
-    {
-      "name": "CSS",
-      "url": "https://www.coderhouse.com/ar/certificados/64d4eb5c19aad62f906bf3e7?lang=es"
-    },
-    {
-      "name": "SQL"
-    },
-    {
-      "name": "Software"
-    },
-    {
-      "name": "Hardware"
-    },
-    {
-      "name": "CCNA"
-    },
-    {
-      "name": "PowerShell"
-    },
-    {
-      "name": "CMD"
-    }
-    ,
-    {
-      "name": "Bootstrap"
-    },
-    {
-      "name": "GIT"
-    },
-    {
-      "name": "SASS"
-    }
+      },
+      {
+        "name": "JavaScript",
+        "url": "https://coderhouse.com/ar/certificados/6538126ad670f7837198332f?lang=es"
+      },
+      {
+        "name": "HTML",
+        "url": "https://www.coderhouse.com/ar/certificados/64d4eb5c19aad62f906bf3e7?lang=es"
+      },
+      {
+        "name": "CSS",
+        "url": "https://www.coderhouse.com/ar/certificados/64d4eb5c19aad62f906bf3e7?lang=es"
+      },
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "Software"
+      },
+      {
+        "name": "Hardware"
+      },
+      {
+        "name": "CCNA"
+      },
+      {
+        "name": "PowerShell"
+      },
+      {
+        "name": "CMD"
+      },
+      {
+        "name": "Bootstrap"
+      },
+      {
+        "name": "GIT"
+      },
+      {
+        "name": "SASS"
+      }
   ],
     "projects": [{
-      "name": "Project",
-      "description": "Description...",
-      "url": "https://project.com/",
+      "name": "Mikem´Store",
+      "description": "Mi primer proyecto de desarrollo web, creado como parte del curso de desarrollo web de CoderHouse.",
+      "url": "https://miguelmiguez.github.io/CoderHouse-ProyectoFinal/",
       "tecnology":[
-        "HTML",
-        "SASS"
+        {
+          "name": "HTML "
+        },
+        {
+          "name": "SASS"
+        },
+        {
+          "name": "Bootstrap"
+        }
       ]
-    }]
-  }
+    },
+    {
+      "name": "Sneaker Solid",
+      "description": "Tienda E-Commerce, desarrollada para el curso de JavaScript en CoderHouse",
+      "url": "https://miguelmiguez.github.io/Ecomerce/index.html",
+      "tecnology":[
+        {
+          "name": "HTML"
+        },
+        {
+          "name": "SASS"
+        },
+        {
+          "name": "JavaScript"
+        },
+        {
+          "name": "JSON"
+        },
+        {
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "name": "Hooligang",
+      "description": "Diseño y desarrollo web para una barbería, con la implementación de un sistema de programación de turnos a través de Cal.com para gestión de citas.",
+      "url": "https://lovely-heliotrope-90be11.netlify.app/",
+      "tecnology":[
+        {
+          "name": "HTML"
+        },
+        {
+          "name": "SASS"
+        },
+        {
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "name": "IphoneZS",
+      "description": "Tienda E-Commerce creada durante el curso de React en CoderHouse, ampliada con simulación de ventas que incluye números de orden de compra para una experiencia más completa.",
+      "url": "https://stupendous-hotteok-520fde.netlify.app/",
+      "tecnology":[
+        {
+          "name": "React"
+        },
+        {
+          "name": "CSS"
+        },
+        {
+          "name": "Firebase"
+        },
+        {
+          "name": "ViteJS"
+        },
+        {
+          "name": "Node.js"
+        },
+        {
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "name": "Digital Rain",
+          "description": "Diseño y desarrollo web en equipo para nuestra startup personal de servicios de desarrollo web, trabajando en colaboración para ofrecer soluciones innovadoras y de calidad a nuestros clientes",
+          "url": "https://iridescent-macaron-879625.netlify.app/",
+          "tecnology":[
+            {
+              "name": "HTML"
+            },
+            {
+              "name": "SASS"
+            },
+            {
+              "name": "JavaScript"
+            }
+          ]
+    }
+  ]
+}
