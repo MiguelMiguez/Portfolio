@@ -21,9 +21,7 @@ const IntroPerfil = () => {
                 <a href=""><p className='Text'></p></a>
             </div>
         </div>
-        <div className='ContainerPhoto'>
-            <img src={imagePath} alt="FotoPerfil" />
-        </div>
+        <div className='ContainerPhoto'></div>
     </div>
   )
 }
