@@ -1,5 +1,4 @@
 import React from 'react';
-import { useMyContext } from '../MyContext/MyContext';
 import './ContainerAll.css';
 import IntroPerfil from '../IntroPerfl/IntroPerfil';
 import AboutMe from '../AboutMe/AboutMe';

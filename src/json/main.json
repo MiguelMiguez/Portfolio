@@ -19,7 +19,7 @@
           "position": "Analista de Soporte de Aplicaciones",
           "url": "https://www.acacoop.com.ar/",
           "startDate": "2022",
-          "endDate": "2024",
+          "endDate": "Actualidad",
           "summary": [
             "Gestión de aplicaciones contables e impositivas para asegurar la precisión y cumplimiento de los procesos financieros.",
             "Administración de aplicaciones de generación de remitos y facturación para asegurar un flujo eficiente de documentos comerciales.",
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "name": "Hooligang",
+      "name": "Hooligang Cuts",
       "description": "Diseño y desarrollo web para una barbería, con la implementación de un sistema de programación de turnos a través de Cal.com para gestión de citas.",
       "url": "https://lovely-heliotrope-90be11.netlify.app/",
       "tecnology":[
