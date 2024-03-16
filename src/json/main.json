@@ -87,7 +87,8 @@
     
       }      
     ],
-    "certificates": [{
+    "certificates": 
+    [{
       "name": "React",
       "url": "https://www.coderhouse.com/ar/certificados/65ca4e5a82e04116c658a944?lang=es"
       },
@@ -130,7 +131,7 @@
       {
         "name": "SASS"
       }
-  ],
+    ],
     "projects": [{
       "name": "Mikem´Store",
       "description": "Mi primer proyecto de desarrollo web, creado como parte del curso de desarrollo web de CoderHouse.",
@@ -212,9 +213,9 @@
     },
     {
       "name": "Digital Rain",
-          "description": "Diseño y desarrollo web en equipo para nuestra startup personal de servicios de desarrollo web, trabajando en colaboración para ofrecer soluciones innovadoras y de calidad a nuestros clientes",
-          "url": "https://iridescent-macaron-879625.netlify.app/",
-          "tecnology":[
+      "description": "Diseño y desarrollo web en equipo para nuestra startup personal de servicios de desarrollo web, trabajando en colaboración para ofrecer soluciones innovadoras y de calidad a nuestros clientes",
+      "url": "https://iridescent-macaron-879625.netlify.app/",
+      "tecnology":[
             {
               "name": "HTML"
             },
@@ -224,7 +225,7 @@
             {
               "name": "JavaScript"
             }
-          ]
+      ]
     }
   ]
 }
