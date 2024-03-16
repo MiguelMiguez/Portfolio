@@ -6,24 +6,23 @@ import './IntroPerfil.css'
 
 const IntroPerfil = () => {
     const resumeData = useMyContext();
-    const imagePath = '../../assets/earth.png';
+    const imagePath = '../../../Public/profile.jpg';
     return (
     <div className='IntroPerfil'>
         <div className='ContainerInfoPerfil'>
             <h1 className='NameProfile'>{resumeData.basics.name}</h1>
             <p className='TextProfile'>{resumeData.basics.summary}</p>
             <div className='ContainerLocation'>
-                <img className='IconWorld' src={imagePath} alt="" />
                 <a href="https://maps.app.goo.gl/Fs9TkRmV8fsE1jT88" target='blank' >Burzaco, Buenos Aires, ARG</a>
             </div>
             <div className='ContainerSocialMedia'>
-                <a href=""><img src="" alt="" /></a>
-                <a href=""><img src="" alt="" /></a>
-                <a href=""><img src="" alt="" /></a>
+                <a href="https://www.linkedin.com/in/miguelmiguez/" target='blank'><p className='Text'>LinkedIn: Miguel Miguez</p></a>
+                <a href="https://github.com/MiguelMiguez" target='blank'><p className='Text'>GitHub: MiguelMiguez </p></a>
+                <a href=""><p className='Text'></p></a>
             </div>
         </div>
         <div className='ContainerPhoto'>
-            <img src="" alt="FotoPerfil" />
+            <img src={imagePath} alt="FotoPerfil" />
         </div>
     </div>
   )

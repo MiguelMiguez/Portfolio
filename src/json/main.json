@@ -2,16 +2,10 @@
     "basics": {
       "name": "Miguel Miguez",
       "label": "Programmer",
-      "image": "",
       "email": "miguelmiguezangel@gmail.com",
       "phone": "1173643037",
       "url": "https://johndoe.com",
-      "summary": "Front End developer and Application Analyst ",
-      "profiles": [{
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
-      }]
+      "summary": "Front End developer and Application Analyst "
     },
     "work": [
         {
