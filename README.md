@@ -40,7 +40,7 @@ React+Vite
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/MiguelMiguez)
+- [@MiguelMiguez](https://www.github.com/MiguelMiguez)
 
 
 
