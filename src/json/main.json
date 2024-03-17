@@ -129,7 +129,7 @@
     "projects": [{
       "name": "Mikem´Store",
       "description": "Mi primer proyecto de desarrollo web, creado como parte del curso de desarrollo web de CoderHouse.",
-      "url": "https://miguelmiguez.github.io/CoderHouse-ProyectoFinal/",
+      "url": "https://mikemstore.netlify.app/",
       "tecnology":[
         {
           "name": "HTML "
@@ -145,7 +145,7 @@
     {
       "name": "Sneaker Solid",
       "description": "Tienda E-Commerce, desarrollada para el curso de JavaScript en CoderHouse",
-      "url": "https://miguelmiguez.github.io/Ecomerce/index.html",
+      "url": "https://sneakersolid.netlify.app/",
       "tecnology":[
         {
           "name": "HTML"
@@ -167,7 +167,7 @@
     {
       "name": "Hooligang Cuts",
       "description": "Diseño y desarrollo web para una barbería, con la implementación de un sistema de programación de turnos a través de Cal.com para gestión de citas.",
-      "url": "https://lovely-heliotrope-90be11.netlify.app/",
+      "url": "https://hooligangcuts.netlify.app/",
       "tecnology":[
         {
           "name": "HTML"
@@ -183,7 +183,7 @@
     {
       "name": "IphoneZS",
       "description": "Tienda E-Commerce creada durante el curso de React en CoderHouse, ampliada con simulación de ventas que incluye números de orden de compra para una experiencia más completa.",
-      "url": "https://stupendous-hotteok-520fde.netlify.app/",
+      "url": "https://iphonezs.netlify.app/",
       "tecnology":[
         {
           "name": "React"
@@ -208,7 +208,7 @@
     {
       "name": "Digital Rain",
       "description": "Diseño y desarrollo web en equipo para nuestra startup personal de servicios de desarrollo web, trabajando en colaboración para ofrecer soluciones innovadoras y de calidad a nuestros clientes",
-      "url": "https://iridescent-macaron-879625.netlify.app/",
+      "url": "https://dig-rain.netlify.app",
       "tecnology":[
             {
               "name": "HTML"
@@ -219,6 +219,28 @@
             {
               "name": "JavaScript"
             }
+      ]
+    },
+    {
+      "name": "CV-MiguelMiguez",
+      "description": "Este proyecto consiste en un portfolio inspirado en el modelo de 'BartoszJarocki', que utiliza un enfoque innovador basado en JSON para gestionar los datos de los componentes repetitivos.",
+      "url": "https://cv-miguelmiguez.netlify.app/",
+      "tecnology":[
+        {
+          "name": "React"
+        },
+        {
+          "name": "CSS"
+        },
+        {
+          "name": "ViteJS"
+        },
+        {
+          "name": "Node.js"
+        },
+        {
+          "name": "JSON"
+        }
       ]
     }
   ]
