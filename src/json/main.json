@@ -208,7 +208,7 @@
     {
       "name": "Digital Rain",
       "description": "Diseño y desarrollo web en equipo para nuestra startup personal de servicios de desarrollo web, trabajando en colaboración para ofrecer soluciones innovadoras y de calidad a nuestros clientes",
-      "url": "https://dig-rain.netlify.app",
+      "url": "https://digitalrain.online",
       "tecnology":[
             {
               "name": "HTML"
@@ -218,6 +218,9 @@
             },
             {
               "name": "JavaScript"
+            },
+            {
+              "name": "PHP"
             }
       ]
     },
