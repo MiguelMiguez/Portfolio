@@ -58,6 +58,7 @@
 .ContainerPhoto{
     width: 200px;
     height: 200px;
+    margin-left: auto;
     border-radius: 8px;
     border: 1px solid rgba(165, 165, 165, 0.781);
     background-image: url(../../../public/profile.jpg);
