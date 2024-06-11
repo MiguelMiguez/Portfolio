@@ -128,7 +128,43 @@
         "name": "SASS"
       }
     ],
-    "projects": [{
+    "projects": [
+      {
+        "name": "Digital Rain",
+        "description": "Diseño y desarrollo web en equipo para nuestra startup personal de servicios de desarrollo web, trabajando en colaboración para ofrecer soluciones innovadoras y de calidad a nuestros clientes",
+        "url": "https://digitalrain.online",
+        "tecnology":[
+              {
+                "name": "HTML"
+              },
+              {
+                "name": "SASS"
+              },
+              {
+                "name": "JavaScript"
+              },
+              {
+                "name": "PHP"
+              }
+        ]
+      },
+    {
+      "name": "Hooligang Cuts",
+      "description": "Diseño y desarrollo web para una barbería, con la implementación de un sistema de programación de turnos a través de Cal.com para gestión de citas.",
+      "url": "https://hooligangcuts.netlify.app/",
+      "tecnology":[
+        {
+          "name": "HTML"
+        },
+        {
+          "name": "SASS"
+        },
+        {
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
       "name": "Mikem´Store",
       "description": "Mi primer proyecto de desarrollo web, creado como parte del curso de desarrollo web de CoderHouse.",
       "url": "https://mikemstore.netlify.app/",
@@ -167,22 +203,6 @@
       ]
     },
     {
-      "name": "Hooligang Cuts",
-      "description": "Diseño y desarrollo web para una barbería, con la implementación de un sistema de programación de turnos a través de Cal.com para gestión de citas.",
-      "url": "https://hooligangcuts.netlify.app/",
-      "tecnology":[
-        {
-          "name": "HTML"
-        },
-        {
-          "name": "SASS"
-        },
-        {
-          "name": "JavaScript"
-        }
-      ]
-    },
-    {
       "name": "IphoneZS",
       "description": "Tienda E-Commerce creada durante el curso de React en CoderHouse, ampliada con simulación de ventas que incluye números de orden de compra para una experiencia más completa.",
       "url": "https://iphonezs.netlify.app/",
@@ -205,25 +225,6 @@
         {
           "name": "Bootstrap"
         }
-      ]
-    },
-    {
-      "name": "Digital Rain",
-      "description": "Diseño y desarrollo web en equipo para nuestra startup personal de servicios de desarrollo web, trabajando en colaboración para ofrecer soluciones innovadoras y de calidad a nuestros clientes",
-      "url": "https://digitalrain.online",
-      "tecnology":[
-            {
-              "name": "HTML"
-            },
-            {
-              "name": "SASS"
-            },
-            {
-              "name": "JavaScript"
-            },
-            {
-              "name": "PHP"
-            }
       ]
     },
     {
