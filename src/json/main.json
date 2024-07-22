@@ -1,11 +1,8 @@
 {
     "basics": {
       "name": "Miguel Miguez",
-      "label": "Programmer",
       "email": "miguelmiguezangel@gmail.com",
-      "phone": "1173643037",
-      "url": "https://johndoe.com",
-      "summary": "Front End developer and Application Analyst "
+      "summary": "Desarrollador Front-End & Analista de Aplicaciones"
     },
     "work": [
         {
@@ -61,7 +58,6 @@
           "startDate": "2017",
           "endDate": "2019",
           "summary": [ 
-            "Realización de trámites administrativos, incluyendo gestiones de documentación, seguimiento de expedientes y atención a clientes para garantizar un servicio eficiente y de calidad.",
             "Armado, instalación y soporte técnico de PCs e impresoras: montaje y configuración de equipos informáticos, instalación y configuración de impresoras, y brindar soporte técnico a usuarios para resolver problemas de hardware y software, asegurando el correcto funcionamiento de los dispositivos."
           ]
         }
@@ -135,13 +131,10 @@
         "url": "https://digitalrain.online",
         "tecnology":[
               {
-                "name": "HTML"
+                "name": "React"
               },
               {
-                "name": "SASS"
-              },
-              {
-                "name": "JavaScript"
+                "name": "CSS"
               },
               {
                 "name": "PHP"
