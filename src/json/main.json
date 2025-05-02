@@ -1,153 +1,162 @@
 {
-    "basics": {
-      "name": "Miguel Miguez",
-      "email": "miguelmiguezangel@gmail.com",
-      "summary": "Analista de Aplicaciones & Desarrollador Front-End"
+  "basics": {
+    "name": "Miguel Miguez",
+    "email": "miguelmiguezangel@gmail.com",
+    "summary": "Analista de Aplicaciones & Desarrollador Front-End"
+  },
+  "work": [
+    {
+      "name": "Asociación de Cooperativas Argentinas",
+      "position": "Analista de Aplicaciones & Desarrollador Front-End",
+      "url": "https://www.acacoop.com.ar/",
+      "startDate": "2022",
+      "endDate": "Actualidad",
+      "summary": [
+        "Desarrollador Front-End en aplicaciones móviles con React Native y Expo, participando en el desarrollo y diseño UX/UI de una app de gestión de flota de vehículos, con foco en usabilidad y rendimiento multiplataforma.",
+        "Administración de bases de datos SQL Oracle.",
+        "Gestión de aplicaciones contables e impositivas para asegurar la precisión y cumplimiento de los procesos financieros.",
+        "Administración de aplicaciones de generación de remitos y facturación para asegurar un flujo eficiente de documentos comerciales.",
+        "Manejo de SAP para respaldar las operaciones comerciales y la gestión de la empresa.",
+        "Gestión de tickets en Jira Service Management."
+      ]
     },
-    "work": [
-        {
-          "name": "Asociación de Cooperativas Argentinas",
-          "position": "Analista de Soporte de Aplicaciones",
-          "url": "https://www.acacoop.com.ar/",
-          "startDate": "2022",
-          "endDate": "Actualidad",
-          "summary": [
-            "Administración de bases de datos SQL Oracle.",
-            "Gestión de aplicaciones contables e impositivas para asegurar la precisión y cumplimiento de los procesos financieros.",
-            "Administración de aplicaciones de generación de remitos y facturación para asegurar un flujo eficiente de documentos comerciales.",
-            "Manejo de SAP para respaldar las operaciones comerciales y la gestión de la empresa.",
-            "Gestión de tickets en Jira Service Management."
-          ]
-        },
-        {
-          "name": "Compass-Group",
-          "position": "Analista de soporte",
-          "url": "https://www.otraempresa.com/",
-          "startDate": "2021",
-          "endDate": "2022",
-          "summary": [ 
-            "Administración de usuarios en servidores de Active Directory para garantizar el acceso adecuado y la seguridad de las cuentas de usuario.",
-            "Gestión de usuarios en Microsoft Azure para garantizar la seguridad y el acceso adecuado a los recursos en la nube.",
-            "Gestión de usuarios en Microsoft Exchange para mantener la integridad y la disponibilidad del correo electrónico empresarial.",
-            "Creación de una imagen de Windows 10 para equipos limitados, facilitando una implementación rápida y consistente de sistemas operativos en nuevos equipos.",
-            "Elaboración de instructivos para la base de conocimientos, facilitando a los usuarios la resolución autónoma de problemas comunes.",
-            "Gestión de usuarios en Service Desk, brindando asistencia técnica a los usuarios y resolviendo incidencias en tiempo real.",
-            "Gestión de inventario de hardware y software para mantener un control preciso de los activos y garantizar la disponibilidad de los recursos necesarios."
-          ]
-        },
-        {
-          "name": "Mobisond",
-          "position": "Analista de soporte",
-          "url": "https://www.otraempresa.com/",
-          "startDate": "2019",
-          "endDate": "2021",
-          "summary": [ 
-            "Configuré switches Huawei para mejorar la conectividad en hospitales de la Ciudad Autónoma de Buenos Aires.",
-            "Coordiné cuadrillas para la instalación de servicio de internet, asegurando puntualidad y calidad en la entrega del servicio a los clientes.",
-            "Cloné 1600 servidores Huawei para el programa Educar, optimizando la infraestructura tecnológica en entornos educativos.",
-            "Migré el sistema operativo de Windows 7 a Windows 10, garantizando una transición fluida y sin interrupciones para los usuarios.",
-            "Implementé tecnología de telefonía IP y WIFI Cisco, mejorando la conectividad y la eficiencia operativa.",
-            "Diseñé y armé salas de conferencia con tecnología Cisco, creando espacios de colaboración modernos y funcionales."
-          ]
-        },
-        {
-          "name": "PhotoSmile",
-          "position": "Soporte Tecnico",
-          "url": "https://www.otraempresa.com/",
-          "startDate": "2017",
-          "endDate": "2019",
-          "summary": [ 
-            "Armado, instalación y soporte técnico de PCs e impresoras: montaje y configuración de equipos informáticos, instalación y configuración de impresoras, y brindar soporte técnico a usuarios para resolver problemas de hardware y software, asegurando el correcto funcionamiento de los dispositivos."
-          ]
-        }
-    ],
-    "education": [{
+    {
+      "name": "Compass-Group",
+      "position": "Analista de soporte",
+      "url": "https://www.otraempresa.com/",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": [
+        "Administración de usuarios en servidores de Active Directory para garantizar el acceso adecuado y la seguridad de las cuentas de usuario.",
+        "Gestión de usuarios en Microsoft Azure para garantizar la seguridad y el acceso adecuado a los recursos en la nube.",
+        "Gestión de usuarios en Microsoft Exchange para mantener la integridad y la disponibilidad del correo electrónico empresarial.",
+        "Creación de una imagen de Windows 10 para equipos limitados, facilitando una implementación rápida y consistente de sistemas operativos en nuevos equipos.",
+        "Elaboración de instructivos para la base de conocimientos, facilitando a los usuarios la resolución autónoma de problemas comunes.",
+        "Gestión de usuarios en Service Desk, brindando asistencia técnica a los usuarios y resolviendo incidencias en tiempo real.",
+        "Gestión de inventario de hardware y software para mantener un control preciso de los activos y garantizar la disponibilidad de los recursos necesarios."
+      ]
+    },
+    {
+      "name": "Mobisond",
+      "position": "Analista de soporte & Coordinador de proyectos",
+      "url": "https://www.otraempresa.com/",
+      "startDate": "2019",
+      "endDate": "2021",
+      "summary": [
+        "Configuré switches Huawei para mejorar la conectividad en hospitales de la Ciudad Autónoma de Buenos Aires.",
+        "Coordiné cuadrillas para la instalación de servicio de internet, asegurando puntualidad y calidad en la entrega del servicio a los clientes.",
+        "Cloné 1600 servidores Huawei para el programa Educar, optimizando la infraestructura tecnológica en entornos educativos.",
+        "Migré el sistema operativo de Windows 7 a Windows 10, garantizando una transición fluida y sin interrupciones para los usuarios.",
+        "Implementé tecnología de telefonía IP y WIFI Cisco, mejorando la conectividad y la eficiencia operativa.",
+        "Diseñé y armé salas de conferencia con tecnología Cisco, creando espacios de colaboración modernos y funcionales."
+      ]
+    },
+    {
+      "name": "PhotoSmile",
+      "position": "Soporte Tecnico",
+      "url": "https://www.otraempresa.com/",
+      "startDate": "2017",
+      "endDate": "2019",
+      "summary": [
+        "Armado, instalación y soporte técnico de PCs e impresoras: montaje y configuración de equipos informáticos, instalación y configuración de impresoras, y brindar soporte técnico a usuarios para resolver problemas de hardware y software, asegurando el correcto funcionamiento de los dispositivos."
+      ]
+    }
+  ],
+  "education": [
+    {
       "institution": "UNAB (Universidad Nacional Almirante Brown)",
       "url": "https://institution.com/",
       "area": "Tecnicatura en programación",
       "startDate": "2024",
       "endDate": "Actualidad"
-    
-      },
-      {
+    },
+    {
       "institution": "Instituto San Jose",
       "url": "https://institution.com/",
       "area": "Estudios secundarios completos. Bachiller con orientación en Ciencias Sociales",
       "startDate": "2011",
       "endDate": "2017"
-    
-      }      
-    ],
-    "certificates": 
-    [{
+    }
+  ],
+  "certificates": [
+    {
       "name": "React",
       "url": "https://www.coderhouse.com/ar/certificados/65ca4e5a82e04116c658a944?lang=es"
-      },
-      {
-        "name": "JavaScript",
-        "url": "https://coderhouse.com/ar/certificados/6538126ad670f7837198332f?lang=es"
-      },
-      {
-        "name": "HTML",
-        "url": "https://www.coderhouse.com/ar/certificados/64d4eb5c19aad62f906bf3e7?lang=es"
-      },
-      {
-        "name": "CSS",
-        "url": "https://www.coderhouse.com/ar/certificados/64d4eb5c19aad62f906bf3e7?lang=es"
-      },
-      {
-        "name": "SQL"
-      },
-      {
-        "name": "Linux"
-      },
-      {
-        "name": "Software"
-      },
-      {
-        "name": "Hardware"
-      },
-      {
-        "name": "CCNA"
-      },
-      {
-        "name": "PowerShell"
-      },
-      {
-        "name": "CMD"
-      },
-      {
-        "name": "Bootstrap"
-      },
-      {
-        "name": "GIT"
-      },
-      {
-        "name": "SASS"
-      }
-    ],
-    "projects": [
-      {
-        "name": "Digital Rain",
-        "description": "Diseño y desarrollo web en equipo para nuestra startup personal de servicios de desarrollo web, trabajando en colaboración para ofrecer soluciones innovadoras y de calidad a nuestros clientes",
-        "url": "https://digitalrainreact.netlify.app/",
-        "tecnology":[
-              {
-                "name": "React"
-              },
-              {
-                "name": "CSS"
-              },
-              {
-                "name": "PHP"
-              }
-        ]
-      },
+    },
+    {
+      "name": "JavaScript",
+      "url": "https://coderhouse.com/ar/certificados/6538126ad670f7837198332f?lang=es"
+    },
+    {
+      "name": "HTML",
+      "url": "https://www.coderhouse.com/ar/certificados/64d4eb5c19aad62f906bf3e7?lang=es"
+    },
+    {
+      "name": "CSS",
+      "url": "https://www.coderhouse.com/ar/certificados/64d4eb5c19aad62f906bf3e7?lang=es"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "CCNA"
+    },
+    {
+      "name": "Bootstrap"
+    },
+    {
+      "name": "GIT"
+    },
+    {
+      "name": "SASS"
+    },
+    {
+      "name": "Node.js"
+    },
+    {
+      "name": "Firebase"
+    },
+    {
+      "name": "ViteJS"
+    },
+    {
+      "name": "JSON"
+    },
+    {
+      "name": "TailwindCSS"
+    }
+  ],
+  "projects": [
+    {
+      "name": "AndesPolygon",
+      "description": "Diseño y desarrollo web  para una startup personal de servicios de desarrollo web, trabajando en colaboración con nuestros clientes para ofrecer soluciones innovadoras y de calidad",
+      "url": "https://andespolygon.netlify.app/",
+      "tecnology": [
+        {
+          "name": "React"
+        },
+        {
+          "name": "TailwindCSS"
+        },
+        {
+          "name": "ViteJS"
+        },
+        {
+          "name": "Node.js"
+        },
+        {
+          "name": "JSON"
+        }
+      ]
+    },
     {
       "name": "Hooligang Cuts",
       "description": "Diseño y desarrollo web para una barbería, con la implementación de un sistema de programación de turnos a través de Cal.com para gestión de citas.",
       "url": "https://hooligangcuts.netlify.app/",
-      "tecnology":[
+      "tecnology": [
         {
           "name": "HTML"
         },
@@ -163,7 +172,7 @@
       "name": "Mikem´Store",
       "description": "Mi primer proyecto de desarrollo web, creado como parte del curso de desarrollo web de CoderHouse.",
       "url": "https://mikemstore.netlify.app/",
-      "tecnology":[
+      "tecnology": [
         {
           "name": "HTML "
         },
@@ -179,7 +188,7 @@
       "name": "Sneaker Solid",
       "description": "Tienda E-Commerce, desarrollada para el curso de JavaScript en CoderHouse",
       "url": "https://sneakersolid.netlify.app/",
-      "tecnology":[
+      "tecnology": [
         {
           "name": "HTML"
         },
@@ -201,7 +210,7 @@
       "name": "IphoneZS",
       "description": "Tienda E-Commerce creada durante el curso de React en CoderHouse, ampliada con simulación de ventas que incluye números de orden de compra para una experiencia más completa.",
       "url": "https://iphonezs.netlify.app/",
-      "tecnology":[
+      "tecnology": [
         {
           "name": "React"
         },
@@ -223,24 +232,18 @@
       ]
     },
     {
-      "name": "CV-MiguelMiguez",
-      "description": "Este proyecto consiste en un portfolio inspirado en el modelo de 'BartoszJarocki', que utiliza un enfoque innovador basado en JSON para gestionar los datos de los componentes repetitivos.",
-      "url": "https://cv-miguelmiguez.netlify.app/",
-      "tecnology":[
+      "name": "Campo Fertil",
+      "description": "Diseño y desarrollo web para Campo Fértil S.R.L, una empresa agroindustrial líder en producción de granos, venta de agroquímicos y servicios agrícolas.",
+      "url": "https://campofertilsrl.netlify.app/",
+      "tecnology": [
         {
-          "name": "React"
+          "name": "HTML"
         },
         {
           "name": "CSS"
         },
         {
-          "name": "ViteJS"
-        },
-        {
-          "name": "Node.js"
-        },
-        {
-          "name": "JSON"
+          "name": "JavaScript"
         }
       ]
     }
