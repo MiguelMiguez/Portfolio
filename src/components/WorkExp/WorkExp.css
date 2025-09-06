@@ -1,60 +1,60 @@
-.WorkExp{
-    padding-top: 1rem;
+.WorkExp {
+  padding-top: 1rem;
 }
 
-h2{
-    font-size: 1.4rem;
-    line-height: 2rem;
-    font-weight: bold;
-    font-family: "Montserrat", sans-serif;
+h2 {
+  font-size: 1.4rem;
+  line-height: 2rem;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
 }
 
-.InfoWork{
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
+.InfoWork {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
 }
 
-.TittleCompany{
-    font-size: 1.1rem;
-    line-height: 1.5rem;
-    font-weight: bold;
-    font-family: "Montserrat", sans-serif;
-    padding-top: 1rem;
+.TittleCompany {
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  padding-top: 1rem;
 }
 
-.TittlePosition{
-    font-family: "Inconsolata", monospace;
-    font-weight: 600;
+.TittlePosition {
+  font-family: "Inconsolata", monospace;
+  font-weight: 600;
 }
 
-.ExpText{
-    display: flex;
-    flex-direction: column;
-    padding: 1.5rem 0rem 1.5rem 0rem;
-    gap: 1rem;
+.ExpText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  padding: 1.5rem 0rem 1.5rem 0rem;
+  gap: 1rem;
 }
 
-.InfoCompany{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 4rem;
+.InfoCompany {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 4rem;
 }
 
-.DateText{
-    padding-top: 1rem;
-    color:  #646464;
-    font-family: "Montserrat", sans-serif;
-    font-size: .875rem;
+.DateText {
+  padding-top: 1rem;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
 }
 
-.DateCompany{
-    display: flex;
-    flex-direction: row;
-   
+.DateCompany {
+  display: flex;
+  flex-direction: row;
 }
-.ContainerTittleCompany{
-    width: 100%;
+.ContainerTittleCompany {
+  width: 100%;
 }
-
