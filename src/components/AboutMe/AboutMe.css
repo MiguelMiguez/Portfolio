@@ -1,19 +1,19 @@
-.AboutMe{
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
+.AboutMe {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
 }
 
-.Tittle{
-    font-size: 1.4rem;
-    line-height: 2rem;
-    font-weight: bold;
-    font-family: "Montserrat", sans-serif;
-
+.Tittle {
+  font-size: 1.4rem;
+  line-height: 2rem;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
 }
 
-.Text{
-    
-    font-family: "Inconsolata", monospace;
-    color: rgb(94, 94, 94);
+.Text {
+  color: #f2f2f2;
+  max-width: 900px;
 }
