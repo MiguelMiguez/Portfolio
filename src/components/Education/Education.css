@@ -1,24 +1,75 @@
-.Education{
-    padding-top: 1rem;
+.education__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
 }
 
-.EducationPlace{
-    display: flex;
-    flex-direction: row;
+.education__card {
+  display: flex;
+  gap: 1.25rem;
+  padding: 1.5rem;
+  background: var(--bg-secondary);
+  border-radius: 16px;
+  border: 1px solid var(--border-color);
+  transition: all 0.3s ease;
+}
+
+.education__card:hover {
+  border-color: var(--accent-color);
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px -20px rgba(0, 0, 0, 0.2);
+}
+
+.education__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  background: var(--bg-tertiary);
+  border-radius: 14px;
+  color: var(--accent-color);
+  flex-shrink: 0;
+}
+
+.education__content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.education__institution {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.education__area {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+.education__meta {
+  margin-top: 0.5rem;
+}
+
+.education__date {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  font-size: 0.8rem;
+  color: var(--text-tertiary);
+}
+
+@media (max-width: 480px) {
+  .education__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .education__card {
+    flex-direction: column;
+    text-align: center;
     align-items: center;
-    gap: 4rem;
-}
-
-.Institution{
-    width: 60%;
-    padding: 1rem 0rem 1rem 0rem;
-    font-size: 1rem;
-    line-height: 1.5rem;
-    font-weight: bold;
-    font-family: "Montserrat", sans-serif;
-}
-
-.Date{
-    display: flex;
-    gap: 0.2rem;
+  }
 }

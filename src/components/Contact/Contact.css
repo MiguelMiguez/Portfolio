@@ -1,0 +1,118 @@
+.contact__content {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.contact__headline {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+}
+
+.contact__text {
+  font-size: 1rem;
+  color: var(--text-secondary);
+  line-height: 1.7;
+  max-width: 600px;
+  margin-bottom: 2rem;
+}
+
+.contact__links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.contact__link {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.25rem;
+  background: var(--bg-secondary);
+  border-radius: 14px;
+  border: 1px solid var(--border-color);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.contact__link:hover {
+  border-color: var(--accent-color);
+  transform: translateX(4px);
+}
+
+.contact__link--static {
+  cursor: default;
+}
+
+.contact__link--static:hover {
+  transform: none;
+  border-color: var(--border-color);
+}
+
+.contact__link-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  background: var(--bg-tertiary);
+  border-radius: 12px;
+  color: var(--accent-color);
+  flex-shrink: 0;
+}
+
+.contact__link-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.contact__link-label {
+  font-size: 0.8rem;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.contact__link-value {
+  font-size: 0.95rem;
+  color: var(--text-primary);
+  font-weight: 500;
+}
+
+.contact__cta {
+  display: flex;
+  justify-content: center;
+}
+
+.contact__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 2rem;
+  background: var(--accent-color);
+  color: white;
+  text-decoration: none;
+  border-radius: 14px;
+  font-size: 1rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.contact__btn:hover {
+  background: var(--accent-hover);
+  transform: translateY(-2px);
+  box-shadow: 0 15px 30px -10px var(--accent-color);
+}
+
+@media (max-width: 640px) {
+  .contact__links {
+    grid-template-columns: 1fr;
+  }
+
+  .contact__headline {
+    font-size: 1.25rem;
+  }
+}
