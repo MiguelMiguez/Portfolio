@@ -16,14 +16,14 @@ const Contact = () => {
         {
             icon: <Github size={22} />,
             label: 'GitHub',
-            value: 'MikemDev01',
-            href: 'https://github.com/MikemDev01',
+            value: 'MiguelMiguez',
+            href: 'https://github.com/MiguelMiguez',
         },
         {
             icon: <Linkedin size={22} />,
             label: 'LinkedIn',
             value: 'Miguel Miguez',
-            href: 'https://www.linkedin.com/in/miguel-miguez-810b831a6/',
+            href: 'https://www.linkedin.com/in/MiguelMiguez',
         },
         {
             icon: <MapPin size={22} />,
