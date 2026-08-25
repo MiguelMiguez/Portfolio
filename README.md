@@ -4,14 +4,7 @@
 
 Este proyecto consiste en un portfolio inspirado en el modelo de "BartoszJarocki", que utiliza un enfoque innovador basado en JSON para gestionar los datos de los componentes repetitivos.
 
-## Tech Stack
-
-**Client:** React, Vite.js, Node.js
-
-**Server:** Node
-
-
- ## Instalación
+## Instalación
 
 1. Clona este repositorio.
 2. Instala las dependencias utilizando el siguiente comando:
@@ -41,11 +34,3 @@ React+Vite
 ## Authors
 
 - [@MiguelMiguez](https://www.github.com/MiguelMiguez)
-
-
-
-
-
-
-
-
